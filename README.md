@@ -14,9 +14,10 @@ Install :
 
 http://monsite/myAdmin/index.php?A&Report\StatsEmailValidation
 
-Activate the module in Order Total
+Activate the module in Report
 
-link to marketplace : 
+See Marketplace for all informations
+link to marketplace : https://www.clicshopping.org/forum/files/file/23-apps-report-email-validation/
 
 ![email](https://github.com/ClicShoppingOfficialModulesV3/apps_report_stats_email_validation/blob/master/ModuleInfosJson/stats_email.png)
 
