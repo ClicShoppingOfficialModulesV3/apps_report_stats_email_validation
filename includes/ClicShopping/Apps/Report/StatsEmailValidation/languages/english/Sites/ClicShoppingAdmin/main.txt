@@ -1,0 +1,61 @@
+heading_title = Analyse the validity of email domain
+module_se_title = Email validation
+module_se_short_title = Email validation
+
+text_stats_email_validation = Email validation
+text_configure =  configure App Module
+
+text_intro = This app allow you to include a new stats email validation. <br /><br />
+- Click on Configure to access / install or uninstall the app.<br />
+- The App is located in Report<br />
+
+module_se_introduction = The install process create the database settings for this module and the access menu
+
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_cancel = Cancel
+button_stats_email_validation = Email validation analyse
+button_reset = Reset Email
+button_analyse = Analyse
+button_update = Update
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.
+
+text_result_page = Page {{listing_from}} of {{listing_total}}
+text_display_number_of_link = Displaying <strong>{{listing_from}}</strong> to <strong>{{listing_to}}</strong> (of <strong>{{listing_total}}</strong>)
+
+icon_edit = edit
+icon_delete = Delete
+
+table_heading_customers_id = Id customers
+table_heading_first_name = First name
+table_heading_last_name = Last name
+table_heading_address_email = Email
+table_heading_validate_email = Analyse
+table_heading_clear = Delete
+text_success_domain = Valid domain
+text_no_success_domain = <font color="#FF0000"><strong>Domain no valid<strong></font>
+
+
+title_help_email = <strong>Note on analyse analyse:</strong>
+title_text_help_email = <li>The analysis focuses only on the domain of the email (for now).</li>
+<li>more you have email, more the process will be long in the analysis.</li>
+<li>if the domain of the email is not valid, it will automatically be removed from sending emails or newsletter.</li>
+<li>if you have many contacts, please do not repeat the analysis of too many times (1 time per month).</li>
+<li>invalid emails will not be re-analyzed a second time unless you reset the analysis.</li>
+<li>the analysis result is displayed in the listing of the form of customer.</li>
+<li>you can cancelling the process at all moment.<li>
+

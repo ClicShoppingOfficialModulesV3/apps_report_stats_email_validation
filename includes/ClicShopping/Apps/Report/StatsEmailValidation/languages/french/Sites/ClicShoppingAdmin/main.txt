@@ -1,0 +1,57 @@
+heading_title = Analyse de la validité des domaines des emails
+module_sc_title =  Email validation
+module_sc_short_title =  Email validation
+
+text_stats_email_validation = Email validation
+text_configure =  Configurer App Module
+
+text_intro = Cette app vous permet d'accéder à un rapport d'Email validation<br /><br />
+- Cliquez sur configurer pour accéder à l'installation ou la désinstallation l'app.<br />
+- The App is located in Rapports / Statistiques financières / Email validation<br />
+
+module_se_introduction = Le processus d'installation crée la base de données et le menu pour ce module
+
+button_install_title = Installer
+button_configure = Configurer
+button_save = Sauver
+button_dialog_uninstall =  Désinstaller
+button_uninstall =  Désinstaller
+button_delete = Supprimer
+button_cancel = Annuler
+button_stats_email_validation = Email validation
+button_reset = Reset Email
+button_analyse = Analyser
+button_update = Mettre à jour
+
+dialog_uninstall_title = Désinstaller
+dialog_uninstall_body = Souhaitez-vous installer cette App ?
+dialog_uninstall_title = Désinstaller le module?
+dialog_uninstall_body = Etes vous sur de désinstaller ce module?
+
+alert_module_install_success = Le module a été installée.
+alert_module_uninstall_success = Le module a été désinstallée.
+alert_cfg_saved_success = les paramètres de configuration ont été mises à jour.
+
+text_result_page = Page {{listing_from}} sur {{listing_total}}
+text_display_number_of_link = Affiche <strong>{{listing_from}}</strong> à <strong>{{listing_to}}</strong> (sur <strong>{{listing_total}}</strong>)
+
+icon_edit = Editer
+icon_delete = Supprimer
+
+table_heading_customers_id = Id clients
+table_heading_first_name = Prénom
+table_heading_last_name = Nom
+table_heading_address_email = Email
+table_heading_validate_email = Analyse
+table_heading_clear = Supprimer
+text_success_domain = domaine de l'email valide
+text_no_success_domain = <font color="#FF0000"><strong>domaine de l'email non valide<strong></font>
+
+title_help_email = <strong>Note sur l'analyse:</strong>
+title_text_help_email = <li>L'analyse porte uniquement sur le domaine de l'email (pour le moment).</li>
+<li>plus vous avez d'email, plus le process sera long dans l'analyse.</li>
+<li>si le domaine de l'email est non valide, il sera automatiquement retiré de l'envoi des emails ou de la newsletter.</li>
+<li>si vous avez de nombreux contacts, veuillez ne pas réitérer l'analyse de trop nombreuses fois (1 fois par mois).</li>
+<li>les emails non valide ne seront pas ré-analyser une seconde fois sauf si vous réinitialisez l'analyse.</li>
+<li>le résultat de l'analyse est affiché dans le listing de la fiche des clients.</li>
+<li>vous pouvez annuler le process à tout moment.</li>
